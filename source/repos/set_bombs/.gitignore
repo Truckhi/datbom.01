@@ -5,3 +5,12 @@ Saved Games/
 Searches/
 Videos/
 Truckhi/
+notepad .gitignore
+
+/AppData/
+/Documents/
+/Desktop/
+/Downloads/
+/Pictures/
+/Videos/
+/*.exe
